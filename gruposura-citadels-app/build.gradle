@@ -1,0 +1,7 @@
+dependencies {
+    implementation project(':gruposura-citadels-common')
+    implementation project(':gruposura-citadels-core')
+    implementation project(':gruposura-citadels-domain')
+    implementation project(':gruposura-citadels-schema')
+    implementation 'org.springframework.boot:spring-boot-starter-jetty'
+}

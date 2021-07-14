@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(':gruposura-citadels-domain')
+    implementation project(':gruposura-citadels-common')
+    implementation 'org.springframework:spring-context'
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
+}
